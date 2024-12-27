@@ -6,7 +6,7 @@
 	},
 	{
 		"comparator":"greater_or_equal ",
-		"compareToValue": "10000",
+		"compareToValue": "1000",
 		"events": ["BULL","BEAR"]
 	},
 	{
